@@ -100,4 +100,4 @@ WalletMatcher is not officially affiliated with Ledger, Trezor, or Tangem unless
 
 https://walletmatcher.com/
 
-https://medium.com/@jeff.lebowski.mcc/ledger-vs-trezor-vs-tangem-how-to-choose-the-right-hardware-wallet-b93ac9e316f8
+[Read on Medium](https://medium.com/@jeff.lebowski.mcc/ledger-vs-trezor-vs-tangem-how-to-choose-the-right-hardware-wallet-b93ac9e316f8
